@@ -1,0 +1,14 @@
+body
+{
+    background: ghostwhite;
+    color:blue;
+
+}
+.jumbotron
+{
+    background: wheat;
+    color:black;
+}
+ul,li{
+    float:left;
+}
